@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_68267d1309a1af8e8297ef4c3efbcdba" xml:lang="fr">
+<title>Répertoire de référence de src</title>
+<indexterm><primary>Répertoire de référence de src</primary></indexterm>
+<simplesect>
+    <title>Fichiers    </title>
+        <itemizedlist>
+            <listitem><para>fichier <link linkend="__lesson07_8c">Lesson07.c</link></para>
+
+<para>Ouvre une simple fenÃªtre Windows et dessine un cube avec OpenGL. Le cube est gÃ©nÃ©rÃ© avec un fichier BITMAP en texture mapping. </para>
+</listitem>
+            <listitem><para>fichier <link linkend="_resource_8h">resource.h</link></para>
+
+<para>Les d�finitions utilis�es par le programme et les ressources. </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

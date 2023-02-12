@@ -22,10 +22,10 @@
 	<stdbool.h>
 	<wtypes.h>
 
-1663342316 source:c:\src\opengl\nehe_lesson07-master\src\lesson07.rc
+1663338716 source:c:\src\opengl\nehe_lesson07-master\src\lesson07.rc
 	<windows.h>
 	<winver.h>
 	"resource.h"
 
-1630585239 c:\src\opengl\nehe_lesson07-master\src\resource.h
+1630581639 c:\src\opengl\nehe_lesson07-master\src\resource.h
 
